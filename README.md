@@ -7,6 +7,6 @@ Python Programm for my Array for Hydrogen Line.
   - At the Phased Array option make an option to do a small image with digital phasing
 
 ## Software to use bcs i dont wanna do it all myself:
-  - Virgo by 0xCoto
-  - GNURadio and Osmosdr
+  - [VIRGO](https://github.com/0xCoto/VIRGO) by [0xCoto](https://github.com/0xCoto)
+  - [GNURadio](https://github.com/gnuradio/gnuradio) and osmosdr
   - different python packages
