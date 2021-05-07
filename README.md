@@ -11,3 +11,14 @@ Python Programm for my Array for Hydrogen Line.
   - [VIRGO](https://github.com/0xCoto/VIRGO) by [0xCoto](https://github.com/0xCoto)
   - [GNURadio](https://github.com/gnuradio/gnuradio) and osmosdr
   - different python packages
+
+## Possible Problems and Challanges:
+  - Computing Power of the Raspberry Pi
+  - That coding on the RPi with VNC connection is a pain.
+    - Maybe try to do it on my Windows Laptop and only to do finishing on the RPi then, or just send the code over Discord to my RPi or with the Github.
+  
+  
+  
+  
+  
+  Fedor Teyml, 2021
